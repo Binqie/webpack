@@ -10,7 +10,7 @@ npm init
 "npm install" то же самое что и "npm i".
 
 
-```json
+```javascript
 {
   "name": "*project name*",
   "version": "1.0.0",
